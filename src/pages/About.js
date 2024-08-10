@@ -9,7 +9,8 @@ const About = () => {
           This is a react-app with full CRUD operation using REDUX and
           REDUX-SAGA<br></br> React-router and MDBBootstrap is also utilized
           <br></br>
-          You can create user and view info of any user using{" "}
+          You can create user, edit user, delete user and also view info of any
+          user using{" "}
           <MDBIcon
             fas
             icon="info-circle"
@@ -17,7 +18,7 @@ const About = () => {
             // style={{ color: "#442e2b" }}
             color="info"
           ></MDBIcon>{" "}
-          button and copy paste URL in another tab to see same data as it is
+          button. Copy pasting URL in another tab to see same data as it is
           consistent
         </MDBTypography>
       </div>
