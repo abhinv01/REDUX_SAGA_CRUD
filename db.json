@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "name": "James Anderson",
+      "address": "UK",
+      "phone": "854893884",
+      "email": "james@stillplaying.com",
+      "status": "active",
+      "id": "1"
+    },
+    {
+      "name": "Namo",
+      "address": "India",
+      "phone": "841287574",
+      "email": "Namo@raga.com",
+      "status": "active",
+      "id": "2"
+    },
+    {
+      "name": "Sachin T",
+      "address": "Mumbai",
+      "phone": "4863151351",
+      "email": "sachin@WC2011.co",
+      "status": "inactive",
+      "id": "bbbd"
+    },
+    {
+      "name": "Iron Man",
+      "address": "Stark tower",
+      "phone": "481635864",
+      "email": "stark@3000lane.com",
+      "status": "active",
+      "id": "b784"
+    },
+    {
+      "name": "Gabbar",
+      "address": "Gabbar ka ghar",
+      "phone": "46158465",
+      "email": "gabbar@antagonist.com",
+      "status": "inactive",
+      "id": "348e"
+    },
+    {
+      "name": "Shahrukh khan",
+      "address": "Mannat manzil",
+      "phone": "77565857",
+      "email": "shah@kingKhan.com",
+      "status": "inactive",
+      "id": "1756"
+    },
+    {
+      "name": "Nilu Phule",
+      "address": "bhopla chowk",
+      "phone": "9636396",
+      "email": "Nilu@bollywood.co",
+      "status": "active",
+      "id": "63cf"
+    },
+    {
+      "name": "Mark zuker",
+      "address": "California",
+      "phone": "98615",
+      "email": "mark@meta.com",
+      "status": "inactive",
+      "id": "ceb3"
+    },
+    {
+      "name": "danaeris targarean",
+      "address": "Valar morghulis lane",
+      "phone": "461485684",
+      "email": "danaeris@dragon.com",
+      "status": "inactive",
+      "id": "7a53"
+    },
+    {
+      "id": "6194",
+      "name": "jamshed",
+      "address": "jharkhand",
+      "phone": "648135",
+      "email": "jamshed@industrialist.com",
+      "status": "active"
+    },
+    {
+      "name": "bageshwar",
+      "address": "MP",
+      "phone": "854893884",
+      "email": "bageshwar@religious.com",
+      "status": "active",
+      "id": "654q"
+    },
+    {
+      "id": "dr6a",
+      "name": "DY Chandrachud",
+      "address": "new delhi",
+      "phone": "648",
+      "email": "DY@supreme.com",
+      "status": ""
+    },
+    {
+      "id": "46c4",
+      "name": "TMunde",
+      "address": "India",
+      "phone": "55558888",
+      "email": "TM@honesty.com",
+      "status": "active"
+    },
+    {
+      "id": "46l4",
+      "name": "Sheldon Cooper",
+      "address": "Caltech",
+      "phone": "66448488",
+      "email": "Sheldon@heartsAmy.com",
+      "status": "active"
+    }
+  ]
+}
